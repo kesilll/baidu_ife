@@ -1,0 +1,16 @@
+.day{
+	width:20px;
+	display: inline-block;
+}
+.week{
+	width: 50px;
+	display: inline-block;
+}
+.month{
+	width: 100px;
+	display: inline-block;
+}
+#aqi-chart-wrap{
+	padding:50px 400px;
+	margin:auto auto;
+}
